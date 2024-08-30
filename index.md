@@ -4,4 +4,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Ejemplos de encabezados, imagen
+``` javascript
+var myVar = "Hello, world!";
+```
+
+Ejemplos de encabezados, imagen, código
